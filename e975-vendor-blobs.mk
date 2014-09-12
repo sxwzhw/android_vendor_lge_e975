@@ -270,8 +270,4 @@ PRODUCT_COPY_FILES += \
     vendor/lge/e975/proprietary/vendor/firmware/keymaster/keymaster.b01:system/vendor/firmware/keymaster/keymaster.b01 \
     vendor/lge/e975/proprietary/vendor/firmware/keymaster/keymaster.b02:system/vendor/firmware/keymaster/keymaster.b02 \
     vendor/lge/e975/proprietary/vendor/firmware/keymaster/keymaster.b03:system/vendor/firmware/keymaster/keymaster.b03 \
-    vendor/lge/e975/proprietary/vendor/firmware/keymaster/keymaster.mdt:system/vendor/firmware/keymaster/keymaster.mdt \
-    vendor/lge/e975/proprietary/vendor/firmware/libpn544_fw.so:system/vendor/firmware/libpn544_fw.so \
-    vendor/lge/e975/proprietary/vendor/firmware/libpn544_fw_e970.so:system/vendor/firmware/libpn544_fw_e970.so \
-    vendor/lge/e975/proprietary/vendor/firmware/libpn544_fw_e973.so:system/vendor/firmware/libpn544_fw_e973.so \
-    vendor/lge/e975/proprietary/vendor/firmware/libpn544_fw_ls970.so:system/vendor/firmware/libpn544_fw_ls970.so
+    vendor/lge/e975/proprietary/vendor/firmware/keymaster/keymaster.mdt:system/vendor/firmware/keymaster/keymaster.mdt
