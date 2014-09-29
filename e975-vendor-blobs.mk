@@ -119,6 +119,7 @@ PRODUCT_COPY_FILES += \
     vendor/lge/e975/proprietary/lib/libaudcal.so:system/lib/libaudcal.so \
     vendor/lge/e975/proprietary/lib/libaudioalsa.so:system/lib/libaudioalsa.so \
     vendor/lge/e975/proprietary/lib/libbluedroid_bdt.so:system/lib/libbluedroid_bdt.so \
+    vendor/lge/e975/proprietary/lib/libbtnv.so:system/lib/libbtnv.so \
     vendor/lge/e975/proprietary/lib/libc2d2_a3xx.so:system/lib/libc2d2_a3xx.so \
     vendor/lge/e975/proprietary/lib/libchromatix_imx074_default_video.so:system/lib/libchromatix_imx074_default_video.so \
     vendor/lge/e975/proprietary/lib/libchromatix_imx074_preview.so:system/lib/libchromatix_imx074_preview.so \
